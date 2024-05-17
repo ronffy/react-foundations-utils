@@ -1,0 +1,27 @@
+{
+  "name": "react-foundations-utils",
+  "version": "0.1.0",
+  "description": "react-foundations-utils",
+  "main": "src/index.tsx",
+  "typings": "src/index.tsx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ronffy/react-foundations-utils.git"
+  },
+  "keywords": [
+    "react",
+    "react-utils"
+  ],
+  "files": [
+    "src/**/*"
+  ],
+  "author": "ronffy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronffy/react-foundations-utils/blob/master/issues"
+  },
+  "homepage": "https://github.com/ronffy/react-foundations-utils/blob/master#README.md",
+  "peerDependencies": {
+    "react": "^18.1.0"
+  }
+}
